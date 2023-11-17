@@ -6,7 +6,11 @@ The Pac-Man projects were developed for UC Berkeley's introductory artificial in
 
 # My Implemented Assignments:
 Project 0: Python Tutorial (Not Graded)
+
 Project 1: Search in Pacman (23/25)
+
 Project 2: MultiAgent Pacman (25/25)
+
 Project 3: MDPs & RL 
+
 Project 4: HMM & Particle Filtering
