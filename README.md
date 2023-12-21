@@ -13,7 +13,7 @@ Project 1: Search in Pacman (23/25)
 
 Project 2: MultiAgent Pacman (25/25)
 
-Project 3: MDPs & RL 
+Project 3: MDPs & RL (25/25)
 
-Project 4: HMM & Particle Filtering
+Project 4: HMM & Particle Filtering (25/25)
 
